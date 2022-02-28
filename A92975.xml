@@ -1,0 +1,399 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The severall humble petitions of D. Bastwicke. M. Burton. M. Prynne. and of Nath. VVickins, servant to the said Mr. Prynne. To the Honourable House of Parliament. Whereto is added the humble petitions of severall friends of the said Mr. Prynne, and the acknowledgmeut [sic] prescrib'd to be made by Calvin Bruen, and the rest, in the Cathedrall Church of Chester, and town-hall thereof, for visiting the said Mr. Prynne.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 57 KB of XML-encoded text transcribed from 25 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92975</idno>
+            <idno type="STC">Wing S2765</idno>
+            <idno type="STC">Thomason E207_4</idno>
+            <idno type="STC">ESTC R209836</idno>
+            <idno type="EEBO-CITATION">99868691</idno>
+            <idno type="PROQUEST">99868691</idno>
+            <idno type="VID">157723</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92975)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 157723)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 36:E207[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The severall humble petitions of D. Bastwicke. M. Burton. M. Prynne. and of Nath. VVickins, servant to the said Mr. Prynne. To the Honourable House of Parliament. Whereto is added the humble petitions of severall friends of the said Mr. Prynne, and the acknowledgmeut [sic] prescrib'd to be made by Calvin Bruen, and the rest, in the Cathedrall Church of Chester, and town-hall thereof, for visiting the said Mr. Prynne.</title>
+                  <author>Bastwick, John, 1593-1654.</author>
+               </titleStmt>
+               <extent>[2], 41, [1] p., [3] leaves of plates : ill., ports.  </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeere, 1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>There is also another edition, reset, with different border, better punctuation, and differing in line 12 of title, which reads "Whereunto" and "Petitions", and in line 14, which reads "acknowledgement"--McAlpin Collection Catalogue, Union Theological Seminary.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bastwick, John, 1593-1654 --  Early works to 1800.</term>
+               <term>Burton, Henry, 1578-1648 --  Early works to 1800.</term>
+               <term>Prynne, William, 1600-1669 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:157723:1" rendition="simple:additions"/>
+            <p>The ſeverall Humble PETITIONS OF
+<list>
+                  <item>D. BASTWICKE.</item>
+                  <item>M. BURTON.</item>
+                  <item>M. PRYNNE.</item>
+               </list> And of
+<list>
+                  <item>NATH. VVICKINS, Servant to the ſaid M<hi rend="sup">r</hi> PRYNNE.</item>
+               </list> To the Honourable houſe of PARLIAMENT.</p>
+            <p>Whereto is added the humble petitions of ſeverall Friends of the ſaid M<hi rend="sup">r</hi> PRYNNE, and the acknowledgment preſcrib'd to be made by <hi>Calvin Bruen,</hi> and the reſt, in the Cathe<g ref="char:EOLhyphen"/>drall Church of <hi>Cheſter,</hi> and Town-Hall thereof, for viſiting the ſaid Mr. PRYNNE.</p>
+            <p>Printed in the Yeere, 1641.</p>
+         </div>
+         <div type="frontispiece">
+            <pb facs="tcp:157723:2"/>
+            <p>
+               <figure>
+                  <figDesc>portrait in oval frame of William Prynne</figDesc>
+                  <q>
+                     <lg>
+                        <l>
+                           <hi>All fleſh is Graſs, the best men vanity;</hi>
+                        </l>
+                        <l>
+                           <hi>This, but a ſhadow, here before thine eye,</hi>
+                        </l>
+                        <l>
+                           <hi>Of him, whoſe wondrous changes clearly show,</hi>
+                        </l>
+                        <l>
+                           <hi>That GOD, not men, ſwayes all things here below.</hi>
+                        </l>
+                     </lg>
+                  </q>
+               </figure>
+            </p>
+            <pb facs="tcp:157723:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:157723:3"/>
+            <pb n="9" facs="tcp:157723:3"/>
+            <head>TO THE HONOVRABLE The Knights, Citizens, and Burgeſſes, of the Commons houſe of Parliament.</head>
+            <head type="sub">The humble Petition of <hi>VVilliam Prynne,</hi> late exile, and cloſe Priſoner, in the Ile <hi>of Jerſey.</hi>
+            </head>
+            <opener>In all humbleneſſe ſheweth,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat your Petitioner, though not conſcientious to him<g ref="char:EOLhyphen"/>ſelfe of any voluntary or ap<g ref="char:EOLhyphen"/>parant offence againſt the Lawes of the Realme (to which he ever ſtudied to con<g ref="char:EOLhyphen"/>forme himſelfe) through the malicious practiſes and perſecutions of ſome <hi>Prelates and Church-men,</hi> (eſpecially the now <hi>Arch-Biſhop of Canterbury,</hi> and <hi>Peter Heylin, Doctor in Divinity</hi>) whoſe errors and Innovati<g ref="char:EOLhyphen"/>ons, contrary to the Doctrine and Diſcipline of the Church of England, and extravagan<g ref="char:EOLhyphen"/>cies, in the high Commiſſion, and other Ec<g ref="char:EOLhyphen"/>cleſiaſticall
+<pb n="2" facs="tcp:157723:4"/>Courts, your Petitioner for his owne reliefe, being there unjuſtly profe<g ref="char:EOLhyphen"/>cuted (had to his weake power oppugned) hath within eight yeeres laſt paſt, undergone two heavy Cenſures in the Starre-Chamber Court.</p>
+            <p>The firſt upon an Information there exhi<g ref="char:EOLhyphen"/>bited againſt your Petitioner, by <hi>M. No<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> de<g ref="char:EOLhyphen"/>ceaſed, then Attourney Generall, for ſome miſconſtrued paſſages, inoffenſive in them<g ref="char:EOLhyphen"/>ſelves, and in your Petitioners true intention, being for the moſt part the words of other ap<g ref="char:EOLhyphen"/>proved Authors, compriſed in a Booke, ſti<g ref="char:EOLhyphen"/>led <hi>Histriomaſtix,</hi> written by the petitioner, a<g ref="char:EOLhyphen"/>gainſt common Interludes, and licenſed for the preſſe by <hi>M. Thomas Buckner,</hi> houſhold Chaplaine to the then Arch-Biſhop of <hi>Can<g ref="char:EOLhyphen"/>terbury,</hi> authorized by the State to licenſe Bookes, and by him exactly peruſed, and ap<g ref="char:EOLhyphen"/>proved both in the written and printed Co<g ref="char:EOLhyphen"/>py, before its publication, and ſo confeſſed in the information; for which authorized Booke and paſſages, your Petitioner before the hearing of the cauſe, was not onely im<g ref="char:EOLhyphen"/>priſoned in the Tower of London without Baile of Manupriſe, for a whole yeares ſpace, denyed acceſſe to his Counſell, convenient time to examine witneſſes, and make Breviats to inſtruct his Counſell (the information being Generall, and reciting no particu<g ref="char:EOLhyphen"/>lar Clauſes of the Booke excepted againſt) this exhibits, the onely meanes of his defence,
+<pb n="3" facs="tcp:157723:4"/>Illegally ſuppreſſed: ſome of his Counſell Tam<g ref="char:EOLhyphen"/>pered with to make no juſtification, contrary to your Petitioners inſtructions, and de<g ref="char:EOLhyphen"/>ſire, whereby his cauſe was miſcarried: But alſo at the hearing, by reaſon of thoſe malicions and perverſe gloſſes on the ſaid paſſages, which the ſaid <hi>Heylin</hi> had collected and preſented to his Majeſties learned Coun<g ref="char:EOLhyphen"/>ſell, who repeated his Inſtructions onely; your Petitioner was fined 3000 l. to his Maje<g ref="char:EOLhyphen"/>ſty, expelled the Univerſity of <hi>Oxford,</hi> and <hi>Lyn<g ref="char:EOLhyphen"/>colnes inne,</hi> degraded from his profeſſion of the Law, wherein he never offended, Set in the Pillory in the Pallace-yard at <hi>Weſtminſter,</hi> where he loſt one of his Eares. And two dayes after on the Pillory in <hi>Cheape-ſide,</hi> where hee loſt the other eare, and had his ſaid Lycenſed Bookes there publikely burnt before his face, by the <hi>Hang-man,</hi> in a moſt diſgracefull man<g ref="char:EOLhyphen"/>ner; and adjudged after to remaine a priſoner during his life.</p>
+            <p>That after the ſaid cenſure to defame and in<g ref="char:EOLhyphen"/>jure your Petitioner the more, he was charged wrongfully in the Decree, as cenſured for Per<g ref="char:EOLhyphen"/>jury, (though not taxed for it by the Court) and betweene his ſuff'rings in the Pillory, the Bookes of his Studie (twice ſurveyed, and re<g ref="char:EOLhyphen"/>ſtored to him by order from the Lords) before any (fine eſtreated) by a warrant out of the High Commiſſion ſigned by the ſaid Arch-bi<g ref="char:EOLhyphen"/>ſhop &amp; others, were ſeiſed by on <hi>Croſſe</hi> a meſſen<g ref="char:EOLhyphen"/>ger, who carried them to his houſe, with which
+<pb n="12" facs="tcp:157723:5"/>your Petitioner charging the ſaid Arch-bi<g ref="char:EOLhyphen"/>ſhop upon occaſion, in the open Court of Star-chamber; he there publikely diſavowed the ſame (though your Petitioner can yet pro<g ref="char:EOLhyphen"/>duce it under his owne hand) promiſing with<g ref="char:EOLhyphen"/>all, that the Bookes ſhould be reſtored forth<g ref="char:EOLhyphen"/>with; which notwithſtanding were all ſtill de<g ref="char:EOLhyphen"/>tained by his meanes, till they were extended and ſold for your Petitioners Fyne: Who ſhortly after by an Order out of the ſaid Court, ſent to the Tower to be executed, was there ſhut up cloſe Priſoner, and <hi>Doctor Reeves</hi> ſent thither to ſearch his Chamber for the Pamphlet, which the ſaid Arch-biſhop would wrongfully have Fathered upon your Petitio<g ref="char:EOLhyphen"/>ner, whoſe friends have beene unjuſtly proſecu<g ref="char:EOLhyphen"/>ted in the Exchequer, and elſewhere ſundry yeares, for his Fine aforeſaid.</p>
+            <p>And your Petitioner further ſaith, that a<g ref="char:EOLhyphen"/>bout <hi>Eaſter</hi> was three yeares, during his impri<g ref="char:EOLhyphen"/>ſonment in the Tower, by meanes of the ſaid Arch-biſhop, a new information was exhibited in the ſaid Court againſt your Petitioner, and others, with certaine Bookes thereto annexed; <hi>Denying the Prelats Iurisdiction over other Mini<g ref="char:EOLhyphen"/>ſters, to bee Iure-divino. Charging them with many errours and Innovations in Religion, Vſurpation up<g ref="char:EOLhyphen"/>on his Majeſties Prerogative, and Subjects liberty, abuſes,</hi> and extortions, in the high Commiſſion, <hi>And other</hi> Eccleſiaſticall Courts, ſuppreſſing Preaching, <hi>And painefull</hi> Miniſters without a cauſe; Lycenſing <hi>Popiſh, Arminian,</hi> and other
+<pb n="13" facs="tcp:157723:5"/>Erroneous Bookes <hi>Againſt the</hi> Sabboth, ſetting up Altars, Images, <hi>And Crucifixes,</hi> Removing, and Rayling in Communion <hi>Tables,</hi> and Bow<g ref="char:EOLhyphen"/>ing down to them, Altering the <hi>Booke</hi> of Com<g ref="char:EOLhyphen"/>mon Prayer, the Bookes for the <hi>Gunpowder</hi> Treaſon, and late Faſt in ſome <hi>Materiall</hi> paſſa<g ref="char:EOLhyphen"/>ges in favour of Popery and <hi>Papiſts.</hi> Which thing, (though very notorious, and oft com<g ref="char:EOLhyphen"/>plained againſt by this Honourable houſe, in former and late Parliaments) were yet reputed Scandalous. And though neither of the ſaid Bookes was particularly charged on your Pe<g ref="char:EOLhyphen"/>titioner, in the ſaid information, nor any wit<g ref="char:EOLhyphen"/>neſſe produced to prove him either Authour, or diſperſer of any of them; yet by denying your Petitioner liberty to draw up his owne Anſwer, (though once a Bariſter at Law) when as his Aſſigned Counſell refuſed to doe it, by cloſe Impriſoning your Petitioner, and his Servant, by debarring him, Pen, Inke, and Paper, whereby to Anſwer, or Inſtruct his Counſell, ſearching his chamber, and taking away part of his Anſwer there found, denying him Acceſſe to his Counſell, and conference with his Co-defendants, even at Counſell, though joyntly charged with him, Rejecting the Croſſe Bill exhibited by him for his de<g ref="char:EOLhyphen"/>fence; threatning <hi>Maſter Holt,</hi> one of your Petitioners Aſſigned Counſell, ſent by the then <hi>Lord Keeper</hi> to the Tower, to draw up your Petitioners Anſwer, and commanding him not to ſigne it, after it was engroſſed: Whereupon
+<pb n="6" facs="tcp:157723:6"/>he refuſed to ſubſcribe it, contrary to his pro<g ref="char:EOLhyphen"/>miſe to your Petitioner, and by refuſing to accept your Petitioners Anſwers to the ſaid Information, ſigned with his owne, and <hi>Maſter Tomlins,</hi> the other of his Counſells hands, though tendred by your Petitioner, both at the Star chamber Office, and in the open Court at the hearing the ſaid Information, for default of Anſwer, (though two Anſwers were thereto tendred by your Petitioner) was taken <hi>Pro confeſso</hi> againſt your Petitioner, and he thereupon <hi>Fyn'd five thouſand pounds to his Maje<g ref="char:EOLhyphen"/>ſty, Pillored, Stigmatized on both cheekes, Mutila<g ref="char:EOLhyphen"/>ted and diſmembred, in a most Barbarous manner, and the ſmall remainder of his Eares, left after his firſt execution, cut off, to the hazard of his hearing, and life, Adjudged to perpetuall cloſe impriſonment in the Goale of</hi> Carnarvan caſtle <hi>in</hi> North-wales, <hi>a Naſty Dog-hole, farre remote from your Petitio<g ref="char:EOLhyphen"/>ners Friends.</hi> Which ſentence was undu'ly drawn up and executed upon your Petitioner, as his Attourneys Clearke informed him, be<g ref="char:EOLhyphen"/>fore it was entred into the Booke, or your Petitioner could get any Copie of it, to ex<g ref="char:EOLhyphen"/>cept againſt the ſame, as he had juſt cauſe.</p>
+            <p>That immediately after the Execution of the ſame ſentence, your Petitioner ſent to the ſaid Arch-biſhop to deſire him to releaſe, or Baile his ſervant (who was detained cloſe priſoner for ten weekes ſpace in the meſſengers hands, and oft examined and ſolicited by faire promi<g ref="char:EOLhyphen"/>ſes, and threatnings cauſleſſely to accuſe your
+<pb n="7" facs="tcp:157723:6"/>Petitioner, againſt whom they wanted evidence) that ſo he might attend him during his ſoares, which the ſaid <hi>ArchBiſhop</hi> out of his <hi>Grace</hi> and <hi>Charity,</hi> utterly refuſed: ſaying that hee in<g ref="char:EOLhyphen"/>tended to proceed againſt his ſaid ſervant in the <hi>High Commisſion,</hi> where he hath ever ſince vexed, cenſured, and banded him from Priſon to Pri<g ref="char:EOLhyphen"/>ſon, onely for refuſing to accuſe and betray your Petitioner.</p>
+            <p>That after the ſaid heavy ſentence, your Pe<g ref="char:EOLhyphen"/>titioner by an order in the ſaid Court, (by way of addition to the ſaid Cenſure,) was inhibited the uſe of Pen, inke and Paper, and all Bookes; except the Bible, and the Booke of Common-Prayer, and ſome few Bookes for private De<g ref="char:EOLhyphen"/>votion, and before his wounds were perfectly cured, he was by order removed from the Tow<g ref="char:EOLhyphen"/>er to <hi>Carnarvan;</hi> and ſome of his friends in <hi>Cheſter,</hi> who viſited him there in his paſſage, in the preſence of his Conductors, who had no or<g ref="char:EOLhyphen"/>der to reſtraine any perſon from reſorting to him, were for this very cauſe ſent for by a Meſ<g ref="char:EOLhyphen"/>ſenger, to appeare before the Lords of the Pri<g ref="char:EOLhyphen"/>vy Counſell, and likewiſe cited into the High Commiſſion at <hi>Yorke,</hi> where they were impriſo<g ref="char:EOLhyphen"/>ned, and fined, to the ruine of their eſtates, en<g ref="char:EOLhyphen"/>joyned to make a publike <hi>Recantation</hi> in the Cathedrall Church, and in the Towne-Hall of <hi>Chester.</hi> The ſaid Commiſſioners further de<g ref="char:EOLhyphen"/>creeing that three pictures of your petitioners found in <hi>Cheſter,</hi> ſhould bee publikely burnt at the high Croſſe there, which was done accor<g ref="char:EOLhyphen"/>dingly.</p>
+            <pb n="8" facs="tcp:157723:7"/>
+            <p>That your Petitioner ſince his ſaid ſentence, hath bin publikely reviled at, and libelled a<g ref="char:EOLhyphen"/>gainſt, both by the high Commiſſioners at <hi>York,</hi> and in ſundry Churches, both at Cheſter, and elſe where, &amp; in diverſe licenſed printed books compiled by the ſaid <hi>Heylin,</hi> and publiſhed by the <hi>Arch-Biſhops</hi> privity or co<g ref="char:cmbAbbrStroke">̄</g>mand, &amp; that ſun<g ref="char:EOLhyphen"/>dry of his friends houſes, ſtudies, Bookes, and writings have bin violently broken up, ranſack<g ref="char:EOLhyphen"/>ed and taken away, and themſelves proſecuted in the high Commiſſion, out of malice, for the relation they had to your Petitioner.</p>
+            <p>That after your Petitioner had continued ſome ten weekes ſpace cloſe priſoner in <hi>Carnar<g ref="char:EOLhyphen"/>van,</hi> hee was about three yeares ſince, by a war<g ref="char:EOLhyphen"/>rant from the Lords of the Counſell, made in the ſummer vacation (to which the ſaid Arch-Biſhops hand was firſt ſubſcrib'd) ordered by way of Exile, to be imbarqued and tranſported with all privacy into one of the Caſtles in the <hi>Ile of Ierſey,</hi> and his conductors thereby charged not to admit any perſon whatſoever, but them<g ref="char:EOLhyphen"/>ſelves onely, to ſpeake with your Petitioner in his paſſage: Whereupon after ſome injuries there received by <hi>M. Griffith,</hi> the Kings Atturney in thoſe parts (who endeavoured to ſieze upon the furniture of his chamber for his owne uſe) your Petitioner was imbarqued among Papiſts, in a bruiſed ſhip-wrackt veſſell, full of leakes, and after fourteene weekes voyage in the Win<g ref="char:EOLhyphen"/>ter ſeaſon, through dangerous ſtormes and ſeas, which ſpoyled moſt of his ſtuffe, and bedding,
+<pb n="9" facs="tcp:157723:7"/>and threatning often ſhip-wrack to him, he arri<g ref="char:EOLhyphen"/>ved at the ſaid Ile, and was conveyed cloſe pri<g ref="char:EOLhyphen"/>ſoner into <hi>Mount Orgatile castle,</hi> there where the Lieutenant Governour by an other extraju<g ref="char:EOLhyphen"/>diciall Order, to which the ſaid Arch-Biſhops name was firſt ordered, to keepe your Petitio<g ref="char:EOLhyphen"/>ner cloſe priſoner in a chamber, fuffer none but his keepers to ſpeake with him, to intercept all letters to him; to permit him neither pen, Inke, nor paper, either to write to his friends for neceſſaries, or to petition for reliefe, and to permit him no Booke but the Bible, and thoſe aforenamed bookes, without giving any order for his diet there, ſo that being deprived of his calling, and eſtate, exiled and ſhut up cloſe priſoner among ſtrangers, remote from all his friends, denyed all addreſſe to him by perſon or letters, he had certainely periſhed in his almoſt three yeeres cloſe impriſonment there, had not the extraordinary providence and goodneſſe of God (which he ſhall ever a<g ref="char:EOLhyphen"/>dore) and the noble charity of thoſe, under whoſe cuſtody he did remaine, furniſhed him with ſuch dyet and neceſſaries, as preſerved him both in health and life, in this his cloſe impri<g ref="char:EOLhyphen"/>ſonment and exile.</p>
+            <p>May it therefore pleaſe this Honourable Houſe, to take theſe your petitioners almoſt eight yeeres tragicall grievances, of new and dangerous example, into your moſt ſad and juſt conſiderations, that ſo they may not be<g ref="char:EOLhyphen"/>come
+<pb n="10" facs="tcp:157723:8"/>preſidents to the prejudice of poſteri<g ref="char:EOLhyphen"/>ty; to grant him liberty to ſend for, and ex<g ref="char:EOLhyphen"/>amine all neceſſary witneſſes: to order all Clerks, Regiſters, and other officers of the Star-Chamber, or elſewhere, ſpeedily and freely to grant him the copies of ſuch orders, decrees, and writings, as his cauſe ſhall re<g ref="char:EOLhyphen"/>quire, to releaſe him upon Bale, (being now but a priſoner onely upon an extrajudiciall order of the Lords, and not by Vertue of any ſentence or decree in Court) To grant him liberty to plead and proſecute his owne cauſe, ſince counſell hath ſo often failed him, and to give him ſuch ſatisfaction and reliefe as the Juſtice and equity of his cauſe ſhall merit.</p>
+            <closer>And your Petitioner ſhall ever pray for your ſafeties,
+<signed>WILLIAM PRYNNE.</signed>
+            </closer>
+            <pb facs="tcp:157723:8"/>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:157723:9"/>
+            <p>
+               <figure>
+                  <figDesc>portrait in oval frame of John Bastwick</figDesc>
+                  <q>
+                     <lg>
+                        <l>
+                           <hi>Man's dayes are vaine, and as a flower they fade,</hi>
+                        </l>
+                        <l>
+                           <hi>Heere's one proclames, whereon man's life is stay'd;</hi>
+                        </l>
+                        <l>
+                           <hi>His ſufferings, Changes, Comforts, in strict thrall,</hi>
+                        </l>
+                        <l>
+                           <hi>Shews GOD alone preſerues, and Gouernes all.</hi>
+                        </l>
+                     </lg>
+                  </q>
+               </figure>
+            </p>
+         </div>
+         <div type="petition">
+            <pb n="11" facs="tcp:157723:9"/>
+            <head>TO THE HONOURABLE The Knights, Citizens, and Burgeſſes, of the Commons houſe of Parliament.</head>
+            <head type="sub">The humble Petition of <hi>Iohn Baſtwicke,</hi> Doctor in Phyſicke, lately retained cloſe Priſoner and exile, in the <hi>Iland of Sylly.</hi>
+            </head>
+            <opener>Moſt humbly ſheweth,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat your Petitioner having about ſix yeares ſince ſet out a Booke in Latine, called <hi>Elenchus Religi<g ref="char:EOLhyphen"/>onis Papiſticae,</hi> with an Addition thereunto called <hi>Elagellum Ponti<g ref="char:EOLhyphen"/>ficis, &amp; Epiſcoporum Latialium,</hi> being thereunto provoked by one <hi>Richard Short,</hi> a Papiſt that maintained the Popes ſupremacy, the Maſſe, and Papall Religion; In which Booke your Petitioner, (for preventing all misinterpretati<g ref="char:EOLhyphen"/>ons, of his pious, and good intentions therein) in his Epiſtle to the Reader, fully declared himſelfe, that your Petitioner ment nothing a<g ref="char:EOLhyphen"/>gainſt ſuch Biſhops, as acknowledged their Authority from Kings and Emperours, yet be<g ref="char:EOLhyphen"/>cauſe your Petitioner (the better ever to ſhow the Papall uſurpation of other Princes) there<g ref="char:EOLhyphen"/>in, onely maintained by way of Argument (as other Orthodox writers of that Subject uſually have done) a parity of the ſaid Biſhop of <hi>Rome,</hi>
+               <pb n="12" facs="tcp:157723:10"/>or all other Biſhops or Presbitters, by the word of God, denying his and their ſuprema<g ref="char:EOLhyphen"/>cy over other Miniſters to be by the Divine inſtitution.</p>
+            <p>Thereupon a Purſevant by Authority from the high Commiſſion Court, came into your Petitioners houſe, at <hi>Colcheſter</hi> in <hi>Eſſex,</hi> in his abſence; And the ſaid Purſevant aſſiſted with the then Bayliffes and Conſtables of <hi>Colchester</hi> aforeſaid, Ranſaked his ſaid houſe, together with his Cheſts and Truncks, and with great violence broke open your Petitioners Study, which was in his Apothecaries houſe, and took and carried away divers of your Petitioners Bookes, Writings, Letters, and what elſe the Purſevant pleaſed, without making of reſtituti<g ref="char:EOLhyphen"/>on of them to your Petitioner.</p>
+            <p>And then your Petitioner was proſecuted in the ſaid high Commiſſion Court principally, for his ſaid Booke, where after a long and cha<g ref="char:EOLhyphen"/>ritable proſecution, he was the 12. of <hi>February</hi> 1634, fined 1000 <hi rend="sup">li</hi>. to the King, excommuni<g ref="char:EOLhyphen"/>cated, debarred to practice Phyſicke, the chie<g ref="char:EOLhyphen"/>feſt meanes of his lively-hood, his ſaid Booke ordered to be burnt; That he ſhould pay coſt of ſuit, and be impriſoned till he ſhould make a recantation; the which heavy cenſure was onely for the ſaid Booke, wherein your Petitio<g ref="char:EOLhyphen"/>ner maintained the prerogative of a King againſt the Papacy. Whereas one <hi>Thomas Chawney</hi> of <hi>Eſsex,</hi> lately wrote a Booke in maintenance of the Papall Religion, and in defence of the
+<pb n="13" facs="tcp:157723:10"/>Church of <hi>Rome,</hi> and averres it to be a true Church, the which Booke is dedicated to the <hi>Archbiſhop</hi> of <hi>Canterbury,</hi> and was and is patro<g ref="char:EOLhyphen"/>nized and defended by the ſaid <hi>Archbiſhop,</hi> and the ſaid <hi>Chawney</hi> never troubled for it. After which cenſure declared as aforeſaid; all the Biſhops that were then preſent denyed openly that they held their jurisdiction from his Ma<g ref="char:EOLhyphen"/>jeſty, and affirmed, that they had it from God onely; and the <hi>Archbiſhop</hi> of <hi>Canterbury</hi> a<g ref="char:EOLhyphen"/>mong many other Erroneous ſayings uttered by him; maintained the ſaid <hi>Chawneys</hi> Booke, and maintained that the Church of <hi>Rome</hi> was a true Church, and that it erred not in fundamen<g ref="char:EOLhyphen"/>tals: and he, and other the ſaid Biſhops, there defamed the holy Scriptures, and abuſed reve<g ref="char:EOLhyphen"/>rend <hi>Maſter Calvin.</hi> In regard whereof, and for the vindicating of your Petitioners inno<g ref="char:EOLhyphen"/>cency in the matters for which he was moſt un<g ref="char:EOLhyphen"/>juſtly cenſured, as aforeſaid, your Petitioner, publiſhed in Print another Booke in Latine Intituled, <hi>Apologeticus ad Preſules Anglicanos,</hi> expreſſing the truth of his proceedings and ſpeeces of his ſaid cenſure. For which laſt men<g ref="char:EOLhyphen"/>tioned Booke, and his Booke called the <hi>Letta<g ref="char:EOLhyphen"/>ny</hi> (not then in Print) an information was ex<g ref="char:EOLhyphen"/>hibited againſt him and others in the Starre<g ref="char:EOLhyphen"/>chamber, to which your Petitioners anſwer be<g ref="char:EOLhyphen"/>ing drawn &amp; engroſſed, was onely ſubſcribed by himſelfe, becauſe he could get no counſell to ſet their hands to it; your Petitioner tendred the ſaid anſwer firſt at the Star-chamber Office,
+<pb n="14" facs="tcp:157723:11"/>and after in open Court at the Star-chamber Bar, but it would not be accepted, for want of counſellors hands to it, contrary to former Preſidents. But the Court of Star-chamber tooke the ſaid information <hi>Pro confeſso,</hi> and cenſured <hi>Your Petitioner</hi> 5000 <hi rend="sup">li.</hi> 
+               <hi>fine to the King, to ſtand in the Pillory, and to looſe both his eares, and to be cloſe priſoner in</hi> Lancaſter caſtle <hi>in</hi> Cornewall: all which hath beene executed up<g ref="char:EOLhyphen"/>on him with great extremity, to the perill of his life. After all which extremity, your Petiti<g ref="char:EOLhyphen"/>oner (by what order he knoweth it not, it being no part of his cenſure in Star-chamber) was tranſported from the ſaid caſtle, <hi>To the Iland of Sylly,</hi> a place ſo barren, that it affords not ordinary neceſſaries, where he hath beene in cloſe duration for three yeares or more, and not ſuffered to have any of his friends come at him, his (very Wife being prohibited by the Lords of the counſels order) under paine of impriſonment, not to ſet her foot upon any part of the ſaid Iland, to enquire of his well<g ref="char:EOLhyphen"/>fare. So that your Petitioner hath beene exiled from his wife and divers ſmall children 3. years and more, beſides the great ſtraights and miſe<g ref="char:EOLhyphen"/>ries which he hath ſuſtained, during the ſaid time. All which is contrary to the law of God and man, and the Liberties of a free Subject, and to the utter undoing of your Petitioner, his Wife, and children.</p>
+            <p>May it therefore pleaſe this Honourable
+<pb n="15" facs="tcp:157723:11"/>Aſſembly, to take theſe preſſing grievances of your Petitioner into your conſiderations, and to afford him ſuch reliefe therein, as in your grave Wiſdomes ſhall ſeeme Conſo<g ref="char:EOLhyphen"/>nant to Juſtice and equity, and to aſſigne him for Counſell, <hi>Maſter Atkins, Maſter Lud<g ref="char:EOLhyphen"/>bore, Maſter Tomlins, Maſter Curdon,</hi> and <hi>Maſter Randall,</hi> to aſſiſt him in this his com<g ref="char:EOLhyphen"/>plaint, and to order that your Petitioner may take out <hi>Gratis,</hi> ſuch Copies of the ſaid Cenſures, Warrants and Orders, and other the proceedings, in the ſaid ſeverall Courts as ſhall or may any way concerne this his ſad, yet moſt juſt complaint, with warrant from this Honourable houſe, to bring in his witneſſe.</p>
+            <closer>
+               <hi>And your Petitioner as in duty bound, ſhall ever pray for your proſperities,</hi>
+               <signed>IOHN BASTWICKE.</signed>
+            </closer>
+         </div>
+         <div type="petition">
+            <pb n="19" facs="tcp:157723:12"/>
+            <head>TO THE HONOVRABLE The Knights, Citizens, and Burgeſſes, of the Commons houſe of Parliament.</head>
+            <head type="sub">The humble Petition of <hi>Henry Burton,</hi> late exile, and cloſe Priſoner in Caſtle Cornet, in the Ile <hi>of Garnſey.</hi>
+            </head>
+            <opener>In all humbleneſſe ſheweth,</opener>
+            <p>THat whereas your Petitioner, on the 5 of <hi>Novemb.</hi> 1636, did preach two Sermons in his owne Pariſh Church, in S. <hi>Mathew Friday street, London,</hi> for the which hee was in <hi>December</hi> then next following, ſummoned to appeare before <hi>D. Ducke,</hi> one of the Commiſſi<g ref="char:EOLhyphen"/>oners for cauſes Eccleſiaſticall, at <hi>Cheſwicke,</hi> in the County of <hi>Middleſex:</hi> where (with the Re<g ref="char:EOLhyphen"/>giſter of the High Commiſſion Coutt) the ſaid <hi>D. Ducke</hi> tendred to the Petitioner, the Oath <hi>Ex Officio,</hi> to anſwer to certaine Articles there preſented: which Oath the Petitioner refuſing, to take, did then and there appeale from the ſaid Court, unto the Kings Majeſty: which appeale the ſaid <hi>D. Ducke</hi> did admit, and the ſaid Regiſter by <hi>D. Ducks</hi> direction, did then, and there enter in writing.</p>
+            <pb facs="tcp:157723:12"/>
+            <figure>
+               <figDesc>portrait in oval frame of Henry Burton</figDesc>
+               <q>
+                  <lg>
+                     <l>
+                        <hi>Loe here the shadow of a man ſet free</hi>
+                     </l>
+                     <l>
+                        <hi>From death, from graue, dost aſk how this could bee</hi>
+                     </l>
+                     <l>
+                        <hi>Doubt not; The vertue of CHRISTS death hath done it</hi>
+                     </l>
+                     <l>
+                        <hi>And powerfull prayers of his Redeem'd ones won it.</hi>
+                     </l>
+                  </lg>
+               </q>
+            </figure>
+            <pb facs="tcp:157723:13"/>
+            <pb n="13" facs="tcp:157723:13"/>
+            <p>Notwithſtanding which ſaid appeale, a ſpe<g ref="char:EOLhyphen"/>ciall High Commiſſion Court, was ſhortly af<g ref="char:EOLhyphen"/>ter called at <hi>London,</hi> conſiſting of 4, or 5 Do<g ref="char:EOLhyphen"/>ctors, where the ſaid Commiſſioners proceeded illegally, to ſuſpend the Petitioner in his ab<g ref="char:EOLhyphen"/>ſence, by meanes whereof, as of the threatnings of the ſaid Commiſſioners, he was enforced to keepe his houſe, untill a <hi>Sergeant at Armes,</hi> with divers Purſevants, and other armed Officers, aſſiſted by <hi>Alderman Abell,</hi> then Sheriffe of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> beſet the Petitioners Houſe, at 11 of the Clocke at night, and violently broke open his dores, with Iron Crowes, and the like, and ſur<g ref="char:EOLhyphen"/>priſed him in his houſe, he making no reſiſtance at all: where having firſt ſearched his ſtudy, and taking away ſuch bookes as they pleaſed, they carried your Petitioner to priſon, whence, the next day being the ſecond of <hi>Febr.</hi> by a preten<g ref="char:EOLhyphen"/>ded order from the Lords of the Counſell, hee was conveyed to the Fleet, and there kept cloſe priſoner.</p>
+            <p>During which impriſonment, an informati<g ref="char:EOLhyphen"/>on was exhibited againſt the petitioner, and o<g ref="char:EOLhyphen"/>thers, in his Majeſties Court of Star-Chamber, whereby he was charged <hi>(inter alia)</hi> with the pub<g ref="char:EOLhyphen"/>liſhing of a certaine Booke, containing, <hi>an A<g ref="char:EOLhyphen"/>pologie for an Appeale,</hi> with his ſaid two Sermons, intituled, <hi>For God and the King,</hi> wherein hee taught Subjects to yeeld all manner of due obe<g ref="char:EOLhyphen"/>dience to their lawfull King, and reproved all lawleſſe Innovations in Religion &amp;c. Which Information, the petitioner upon his Oath un<g ref="char:EOLhyphen"/>der
+<pb n="18" facs="tcp:157723:14"/>the hand of <hi>M. Holt,</hi> being then of his coun<g ref="char:EOLhyphen"/>ſell, aſſigned by ſpeciall order from the ſaid Court, did put in his anſwer, wherein hee al<g ref="char:EOLhyphen"/>ledged ſuch things onely, as his ſaid Counſell conceived to be materiall, and pertinent for his juſt defence in publiſhing the ſaid booke, but denyed all other matters in the ſaid Informati<g ref="char:EOLhyphen"/>on conteined, which ſaid Anſwer, being admit<g ref="char:EOLhyphen"/>ted and received in Court, the petitioner (be<g ref="char:EOLhyphen"/>ing then a cloſe priſoner) not onely attended the exhibiting of Interrogatories, according to the cuſtome of that Court, but withall, after ſome univerſall delay, did write unto the Kings Attourney to haſten them: but before the ex<g ref="char:EOLhyphen"/>aminer came, the petitioner heard that his ſaid Anſwer was referred to <hi>S. Iohn Bramſton,</hi> Knight, Lord chiefe Juſtice of the Kings Bench: <hi>Sir Iohn Finch,</hi> then chiefe Juſtice of the Common<g ref="char:EOLhyphen"/>pleas, and was by them wholy expunged as im<g ref="char:EOLhyphen"/>pertinent and Scandalous (ſave onely the not guilty) And the Petitioner underſtanding the an<g ref="char:EOLhyphen"/>ſwer he was to make to the Interrogatories was to be reckned as a part of his anſwer, admitted in court, but afterwards expunged as impertinent &amp; ſcandalous (as aforeſaid): ſo as if he ſhould then have anſwered the Interrogatories, he ſhold thereby have aſſented to the ſaid act of the ſaid Iudges, and ſo to the condemnation of his cauſe before the hearing, wherby he ſhould have con<g ref="char:EOLhyphen"/>tracted his former Oath, that his ſaid Anſwer was a true Anſwer, and ſo ſhould juſtly have brought himſelfe under the guilt of wilfull per<g ref="char:EOLhyphen"/>jury,
+<pb n="19" facs="tcp:157723:14"/>and his cauſe under juſt cenſure. For that very reaſon he held himſelfe not bound, (as hee conceived) to anſwer the Interrogatories, for that his ſaid anſwer was ſo expunged, and the <hi>(Not Guilty)</hi> as the foot ſo tyed to the head with<g ref="char:EOLhyphen"/>out the maine body (and that in the Judges owne words) as the Petitioner could not in any ſort take or acknowledge it now for other then the Judges owne anſwer, as may appeare upon Record in the ſame Court.</p>
+            <p>Nevertheleſſe, the Court taking the ſame in<g ref="char:EOLhyphen"/>formation <hi>Pro confeſſo,</hi> and refuſing to admit a copy of the Petitioners own true anſwer, as alſo of his reaſons of not anſwering the Interrogato<g ref="char:EOLhyphen"/>ries, both which at his Cenſure he tendred to the Court, deſiring they might be then and there publikely read the 14. of Iune, 13. <hi>Caroli Regis,</hi> proceeded to cenſure, whereby your Petitioner was Cenſured <hi>in a Fine of</hi> 5000. <hi>li. to his Majesty, To be deprived of his Eccleſiaſticall Benefice, degra<g ref="char:EOLhyphen"/>ded from his Miniſteriall function and degrees in the Vniverſity, and ordered to be ſet on the Pillory, where both his eares were to be cut off, confined to perpetuall cloſe impriſonment in</hi> Lancaſter <hi>Caſtle, debarred the acceſſe of his wife or any other, to come to him, but onely his Keeper, and denied the uſe of penne, inke, and paper.</hi> All which (except the Fine) was executed accordingly. And after his cloſe impriſonment for twelve weekes in the com<g ref="char:EOLhyphen"/>mon Gaole in the ſaid Caſtle, he was (by what extrajudiciall order he knows not) tranſported by the conduct of one <hi>Brian Burton</hi> appointed
+<pb n="12" facs="tcp:157723:15"/>by the <hi>High</hi> Sheriffe of Lancaſter, (who uſed your Petitioner very baſely and deceitfully, (in that his tranſportation) which was in the Winter ſeaſon through dangerous ſeas; to the apparant hazzard both of his health and life) to he ſaid Caſtle of <hi>Garnſey,</hi> where hee hath re<g ref="char:EOLhyphen"/>mained a cloſe priſoner and exile almoſt three whole yeares, his wife utterly prohibited upon paine of impriſonment to ſet her foot upon any part of the Iland, where ſhe might but en<g ref="char:EOLhyphen"/>quire how her husband did, contrary to the Lawes of God and the liberties of this King<g ref="char:EOLhyphen"/>dome.</p>
+            <p>May it therefore pleaſe this Honorable Houſe, to take the Petitioners ſad cauſe into conſideration, and for the better manifeſta<g ref="char:EOLhyphen"/>tion of his grievance in this cauſe, to aſ<g ref="char:EOLhyphen"/>ſigne him for Counſell <hi>Maſter Serjeant At<g ref="char:EOLhyphen"/>kins, Maſter Tomlins, and Maſter Gurdon,</hi> to aſſiſt him in his cauſe, and to command that he may take out ſuch copies <hi>Gratis</hi> out of the ſaid ſeverall Courts as doe or may con<g ref="char:EOLhyphen"/>cerne his ſaid cauſe.</p>
+            <closer>And your Petitioner as in duty bound, ſhall daily pray for your proſperities.
+<signed>HENRY BURTON.</signed>
+            </closer>
+         </div>
+         <div type="petition">
+            <pb n="21" facs="tcp:157723:15"/>
+            <head>The humble Petition of Nathanael Wickings ſervant to <hi>Maſter Prinne,</hi> and late priſoner in the <hi>White-Lion in Southwarke.</hi>
+            </head>
+            <opener>Moſt humbly ſheweth,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat more then 3 years and a half ſince, your Petitioner, being ſer<g ref="char:EOLhyphen"/>vatn to Maſter <hi>William Prinne</hi> then priſoner in the Tower, pending the laſt Information againſt his ſaid Maſter in the Star-chamber, was apprehen<g ref="char:EOLhyphen"/>ded in the Tower by a Meſſenger, by a war<g ref="char:EOLhyphen"/>rant from the <hi>Archbiſhop of Canterbury</hi> and other Lords, and by him determined cloſe priſoner by the ſpace of tenne weekes, that none could ſpeake with him but his Majeſties Attourney General, &amp; his Majeſties then Solicitor, who examined him three ſeverall times, upon ſecrets of his ſaid Maſters, to extort ſome matter of accuſation againſt his ſaid Maſter by Dures.</p>
+            <p>That after tenne weekes end, your Petitioner was from that cloſe cuſtody by warrant from the Counſell Board delivered over into the hands of <hi>Iohn Ragge,</hi> a Meſſenger attendant upon the <hi>High Commiſſion Court,</hi> to be by him delivered to the Keeper of the Gate-houſe: But
+<pb n="22" facs="tcp:157723:16"/>the ſaid <hi>Ragge</hi> carryed your Petitioner home to his owne houſe, and there detained him two dayes and a night, till ſome of the <hi>High-Commiſ<g ref="char:EOLhyphen"/>ſioners</hi> had ſigned a warrant for your Petitioners commitment to the <hi>Counter in Woodstreet,</hi> whereto he was carryed by the ſaid <hi>Ragge,</hi> and charged with 26 ſhillings as his Fees due to him for the two dayes and nights he kept your Petitioner without order.</p>
+            <p>That your Petitioner was after called be<g ref="char:EOLhyphen"/>fore the <hi>High Commiſſioners</hi> at <hi>Lambeth,</hi> and there tendred the oath <hi>Ex officio,</hi> to wit, to anſwer all ſuch Articles as ſhould be objected againſt him without ever being permitted, either to ſee or heare them, though hee deſired the ſame. And for his refuſing the ſaid Oath, the Court declared him <hi>pro Confeſso,</hi> and by their unani<g ref="char:EOLhyphen"/>mous cenſure impoſed a Fine of 1000 lib. on him, good round coſts of ſuite, excommuni<g ref="char:EOLhyphen"/>cated and committed him backe to remaine <hi>Sub ſalva &amp; arcta cuſtodia,</hi> and not at any termes to walke abroad with his Keeper, untill other order ſhould be taken by the Court. One of the ſaid Articles, (to which hee could give no anſwer) running in theſe words.</p>
+            <p>
+               <hi>Item, we obiect to you</hi> Nath. Wickins, that <hi>you know or believe that the letter, which you car<g ref="char:EOLhyphen"/>ried to the</hi> Printer, <hi>to be ſet the first Letter up<g ref="char:EOLhyphen"/>on the Booke, was a very compleat Letter, and ſo Artificially cut, as that to looke on it the uſu<g ref="char:EOLhyphen"/>all way, it ſeemed a compleat and perfect</hi> C, <hi>but
+<pb n="23" facs="tcp:157723:16"/>turned one ſide of it, and it appeared a Popes head, and then turned another way, and there appeared an Armie of men or Souldiers. And we require you to declare by vertue of your Oath to your beſt know<g ref="char:EOLhyphen"/>ledge and beliefe, who or what was meant by the Popes head in the ſaid Letter or ſeale; and who or what by the Army of men or Souldiers? And who by the</hi> C? <hi>And whether by the</hi> C <hi>was ment the Lords Grace of</hi> Canterbury? <hi>and by the Popes head that his Grace was meant? And that by the Army of men or Souldiers was meant, that his Grace would be the cauſe of Wars in this Kingdome about Reli<g ref="char:EOLhyphen"/>gion, or ſome other like meaning or device,</hi>) which is likewiſe recited in his Cenſure in like terms.</p>
+            <p>That your Petitioners Father was ordered to ſatisfie 22 pound 13 ſhillings 4 pence, for Fees due to the Meſſenger, who firſt ſeiſed him at 6 <hi>ſh.</hi> 8 <hi>d.</hi> the day, for the 10. weeks he detained him Cloſe Priſoner, when his Father had no<g ref="char:EOLhyphen"/>thing to doe with him, he being another mans Servant.</p>
+            <p>That after your Petitioner had lyen almoſt two yeares in the Counter, he was by the High Commiſſioners ordered to be ſent to <hi>Wisbich</hi> Caſtie in the Ile of <hi>Elie</hi> there to remain a cloſe Priſoner. But by a Generall Warrant from the Archbiſhop and ſome other Lords he was re<g ref="char:EOLhyphen"/>moved to the Gate-houſe, and thence after a ſhort abode there, removed to the White Lion in Southwarke, where he lay almoſt a yeare,
+<pb n="24" facs="tcp:157723:17"/>and was then from thence forced out by the diſordered Rout that brake open that Priſon, which tumult being appeaſed, he there volun<g ref="char:EOLhyphen"/>tarily rendred himſelfe againe, and thence by a Warrant from the Lord Chiefe Juſtice <hi>Bramſton</hi> he was tranſmitted to Newgate, where he lay above 23 weeks, and had lyen there lon<g ref="char:EOLhyphen"/>ger, had not he by his Counſell moved his Ma<g ref="char:EOLhyphen"/>jeſties Judges of the Kings Bench for a <hi>Habeas Corpus</hi> to be Bailed, upon which he was with<g ref="char:EOLhyphen"/>out any Warrant remanded to the White Lion inſtead of being Bailed; whereupon he moved the ſecond time for a <hi>Habeas Corpus,</hi> on which when he was brought to the Barre he could not be Bailed till after 4 Motions, and 2 Rules made in the Cauſe.</p>
+            <p>That your Petitioner during his ſaid Impri<g ref="char:EOLhyphen"/>ſonments hath had his Chambers divers times ſearched, his Trunks and Boxes broken open; his licenced Books and lawfull papers taken away, and never yet could have them returned.</p>
+            <p>That your Petitioner hath made ſeverall humble addreſſes by petition to the Counſell Table, the High Commiſſion Court, and Arch-Biſhop for Reliefe in his inlargement, or ſup<g ref="char:EOLhyphen"/>port, with maintenance, but could not obtaine their Gracious Anſwers, eſpecially the Arch-Biſhop, in regard he had vowed (as his owne Houſhold Servants reported) that your Petiti<g ref="char:EOLhyphen"/>oner ſhould never be releaſed as long as he breathed, without he would either ſubmit to
+<pb n="25" facs="tcp:157723:17"/>confeſſe ſuch things as ſhould be required of him; as, what his Mr. did, and what he bade him to doe; or to take the Oath <hi>Ex Officio.</hi>
+            </p>
+            <p>Alwhich Illegall Impriſonments of purpoſe to inforce him to betray and accuſe his Inno<g ref="char:EOLhyphen"/>cent Mr. againſt the Laws of <hi>God,</hi> and the Realme, he humbly ſubmits to the grave Con<g ref="char:EOLhyphen"/>ſideration of this Honourable Houſe, deſiring ſuch Recompence for his ſaid falſe Impriſon<g ref="char:EOLhyphen"/>ments and Injuries as to your wiſdomes ſhall ſeem moſt meet.</p>
+            <closer>And he as in duty bound ſhall ever pray. <hi>&amp;c.</hi>
+               <signed>NATHANAEL WICKINS.</signed>
+            </closer>
+         </div>
+         <div type="petition">
+            <pb n="26" facs="tcp:157723:18"/>
+            <head>TO THE HONOVRABLE The Knights, Citizens, and Burgeſſes, of the Commons Houſe of <hi>Parliament.</hi>
+            </head>
+            <head type="sub">The humble Petition of <hi>Peter Iuice,</hi> of the City of <hi>Cheſter,</hi> Stationer.</head>
+            <opener>Sheweth,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>HAt your Petitioner (though every way conformable to the Laws of this Realm, and Doctrine and Diſcipline of the Church of <hi>England,</hi> and of a peaceable diſ<g ref="char:EOLhyphen"/>poſition) about 3 yeares ſince, for viſiting Mr. <hi>Prynne</hi> in his paſſage through <hi>Cheſter</hi> to the Ca<g ref="char:EOLhyphen"/>ſtle of <hi>Carnarvan,</hi> by the conſent of his Keeper, was by the meanes and direction of the Biſhop of <hi>Cheſter</hi> Areſted by the Servant of <hi>Roger Blanchard</hi> Purſuivant for the High-Commiſſio<g ref="char:EOLhyphen"/>ners at <hi>Yorke,</hi> to appeare before them upon <hi>Cheſter</hi> Chaire Evening, who forced him to enter into Bond, with Sureties to appeare at the Court at <hi>Biſhops-Thorpe</hi> on that day, which he did accordingly: And on the ſame day your Petitioners Wife was Arreſted, and carryed out
+<pb n="27" facs="tcp:157723:18"/>of his Houſe by night, by a Warrant from the ſaid Commiſſioners to appeare at <hi>Biſhop-Thorpe</hi> the next day, being 80. miles from <hi>Cheſter,</hi> for which two Areſts he was inforced to pay ſixe pound to <hi>Blanchard.</hi>
+            </p>
+            <p>That your Petitioner upon his Appearance was enforced to take an Oath to Anſwere ſun<g ref="char:EOLhyphen"/>dry originals, and three papers of Additionall Articles, to his great vexation and expence, be<g ref="char:EOLhyphen"/>ing kept at <hi>Yorke</hi> in the ſaid Purſulvants houſe, for the ſpace of eight weeks, during which time, he was conſtrained to ſend down ſeverall Commiſſions for the Examination of his Wife, being unable to Travell, and dangerouſly ſick, by meanes of the fright ſhe took by the Purſu<g ref="char:EOLhyphen"/>ivants Arreſting her, and carrying her away in the night, Your Petitioners Houſe, Shoppe, and Study being three times ſearched in the meane time, by a Warrant from the Lords. And though nothing offenſive was then found, or proved againſt him, but only his viſiting Mr. <hi>Prynne</hi> in his paſſage through <hi>Cheſter,</hi> and that with the leave of his Conductours, Yet your Petitioner was by the ſaid Commiſſioners fined 300. pound to his Majeſty, Impriſoned in the Purſuivants Houſe, to whom he payed 6. <hi>ſh.</hi> 8. <hi>d.</hi> a day, be<g ref="char:EOLhyphen"/>ſides his diet, untill ſuch time as he ſhould enter into Bond, with Sureties, to make ſuch a pub<g ref="char:EOLhyphen"/>lique acknowledgement of his pretended of<g ref="char:EOLhyphen"/>fence, in viſiting Mr. <hi>Prynne,</hi> both in the Cathe<g ref="char:EOLhyphen"/>drall, and Common Hall of <hi>Cheſter,</hi> as the ſaid
+<pb n="28" facs="tcp:157723:19"/>Commiſſioners ſhould preſcribe; your Petitio<g ref="char:EOLhyphen"/>ner being enforced to pay divers great and unwarrantable Fees, both to the Purſuivants, Regiſters, Proctors, and other Officers of the ſaid Court, to the value of 50. pound at the leaſt; And though nothing was proved againſt his Wife, yet they forced him to pay the Char<g ref="char:EOLhyphen"/>ges of the Court, and Coſts of Suit for her.</p>
+            <p>That your Petitioner by reaſon of his ſaid great Oppreſſions and Expences, and through the perſwaſion of the ſaid Biſhop of <hi>Cheſter,</hi> and his Chancellour, was moſt againſt his Judge<g ref="char:EOLhyphen"/>ment and Conſcience induced to make an unjuſt Acknowledgement in the ſaid Cathe<g ref="char:EOLhyphen"/>drall before a great Aſſembly, where the ſaid Biſhop being then preſent, and his Chapleyn Mr. <hi>Thomas Cordell</hi> preaching a Sermon for that purpoſe, wherein he bitterly inveighed againſt Mr. <hi>Prynne</hi> and his Fellow-ſufferers, comparing them to <hi>Corah, Dathan</hi> and <hi>Abiram.</hi> And becauſe your Petitioner changed one word of the Acknowledgement, ſaying <hi>igno<g ref="char:EOLhyphen"/>rantly</hi> for <hi>wickedly,</hi> hee was injoyned by the Biſhop the ſame day at Evening to make a new Acknowledgement in the ſaid Church before another Great Aſſembly; and after that, to make the firſt Acknowledgement in the Com<g ref="char:EOLhyphen"/>mon Hall of <hi>Cheſter,</hi> before the Maior and Aldermen, and all comers in; And enforced him to pay 4 pound to <hi>Blanchard</hi> for being preſent to ſee his Acknowledgement made.</p>
+            <pb n="29" facs="tcp:157723:19"/>
+            <p>After which your Petitioner was conſtrai<g ref="char:EOLhyphen"/>ned to pay 30. pound to the Arch-Biſhop of <hi>Canterbury,</hi> and Sugar-loaves to his Servant Mr. <hi>Holford,</hi> for Compoſition of his ſaid Fine of 30. pound; ſo that by reaſon of all the pre<g ref="char:EOLhyphen"/>miſſes, your Petitioner hath expended at leaſt the ſumme of 100. pound, and ſuffered dama<g ref="char:EOLhyphen"/>ges to the value of 200. pound in his Trade and Reputation.</p>
+            <p>May it pleaſe this Honourable Houſe to take theſe your Petitioners Grievances, together with the juriſdiction of the ſaid High-Commiſſion Court into your juſt and Honourable Conſiderations, and to afford your Petitioner ſuch Reliefe for his loſſes and damages, as the Juſtice and Equity of this Cauſe ſhall require.</p>
+            <closer>And your Petitioner ſhall ever pray, <hi>&amp;c.</hi>
+               <signed>PETER JUICE.</signed>
+            </closer>
+         </div>
+         <div type="petition">
+            <pb n="30" facs="tcp:157723:20"/>
+            <head>TO THE HONOVRABLE The Knights, Citizens, and Burgeſſes, of the Commons houſe of <hi>Parliament.</hi>
+            </head>
+            <head type="sub">THE HVMBLE PETITION OF PETER LEIGH of the City of CHESTER, <hi>Grocer,</hi> and RICHARD GOLBORNE of CHESTER aforeſaid Gentleman.</head>
+            <opener>Sheweth,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>HAT your Petitioners (though peaceable, and conformable to the Lawes of the Realme, and Doctrine, and Diſcipline, by Law eſtabliſhed in the Church of Eng<g ref="char:EOLhyphen"/>land) were about three yeares ſince (with William Trafford Deceaſed) Ar<g ref="char:EOLhyphen"/>reſted by <hi>Roger Blanckhard,</hi> chiefe Purſuivant for the High Commiſſion at <hi>Yorke,</hi> (for Viſiting <hi>Mr. William Prynne</hi> in his Journy to <hi>Carnarvan Caſtle,</hi> which they conceived they might Law<g ref="char:EOLhyphen"/>fully doe, being his friends, and there being no order to the contrary) who upon their ſaid Arreſt, tooke of each of your Petitioners, 3 pound a peece, for his ſees, and ſeverall
+<pb n="31" facs="tcp:157723:20"/>Bonds of your Petitioners, for the appearance at the ſaid High-Commiſſion at <hi>Yorke,</hi> within a ſhort time after; which they did accordingly, and were committed to the ſaid <hi>Blanchards</hi> cu<g ref="char:EOLhyphen"/>ſtody, until ſuch time as they entred into Bonds, to ſtand to the Order of the ſame Court: And upon your Petitioners appearance, divers Arti<g ref="char:EOLhyphen"/>cles were exhibited againſt them, in the ſaid Court; and the viſiting of the ſaid <hi>William Prynne,</hi> they confeſſed, but denyed all miſca<g ref="char:EOLhyphen"/>riages, or miſdemeanors, charged againſt them, and averred that they accompanied him onely in the preſence of his Keepers. And your Petitioners, and the ſaid Deceaſed, were to their great charge forced to attend at <hi>Yorke,</hi> one of them, above a Month, and the other 3 weekes after they had Anſweres to the ſame Articles, before Sentence; and at laſt they were conſtrained to pay great ſummes of money, for Fees, and coſts of Suit, on both ſides, Doctor <hi>Materſhed</hi> the Kings Advocate, and the Pro<g ref="char:EOLhyphen"/>ctors againſt them, receiving great ſummes of money of them, which with the Purſuivants Fees, amounted to aboue ſixty pound. And your Petitioner, <hi>Peter Leigh,</hi> was fined 200 <hi>
+                  <hi rend="sup">li.</hi>
+               </hi> to the Kings Majeſty: and your other Petitioner 300 <hi>
+                  <hi rend="sup">li.</hi>
+               </hi> and the ſaid <hi>William Trafford,</hi> 150 <hi>
+                  <hi rend="sup">li.</hi>
+               </hi> and for the ſame cauſe, and not any witneſſe exa<g ref="char:EOLhyphen"/>mined againſt any of them, were enjoyned to make an acknowledgement, which before they would not do, in regard the ſame was againſt
+<pb n="32" facs="tcp:157723:21"/>their conſciences, and the Lawes of this Realme as they beleeved; They were forced to flee in<g ref="char:EOLhyphen"/>to other Countries, and leave their Wives, and Children, Trades, and Profeſſions; And in their abſence the Purſuivants of the ſaid Court came to their Houſes, with Warrants, or inti<g ref="char:EOLhyphen"/>mations, which they cauſed to be publiſhed in your Petitioners Pariſh Churches in <hi>Cheſter</hi> aforeſaid, and did ſo affright their Wives, that they being with Child, did ſoone after miſ<g ref="char:EOLhyphen"/>carry.</p>
+            <p>And your Petitioners, and <hi>William Trafford,</hi> uſing all meanes for their freedome, could not prevaile, but their fines were Eſtreated, and their Bonds returned into the Exchequer as forfeited; whereupon at laſt, that they might have ſome acceſſe, and favour, to and with the Arch-Biſhop of <hi>Canturbury,</hi> who, as they were informed, had onely power to relieve them; They payd Doctor <hi>Merricke,</hi> one of the Ad<g ref="char:EOLhyphen"/>vocates of the High-Commiſſion Court at <hi>Can<g ref="char:EOLhyphen"/>terbury,</hi> that they might have acceſſe to his Lordſhip, 35 <hi>
+                  <hi rend="sup">li.</hi>
+               </hi> at ſeverall times: They preſen<g ref="char:EOLhyphen"/>ted his Lordſhip alſo with two Butts of the beſt Sacke, and gave one Mr. <hi>Holford,</hi> one of his Attendants 12 <hi>
+                  <hi rend="sup">li.</hi>
+               </hi> and other Gratuities, to o<g ref="char:EOLhyphen"/>ther of his Servants, to the value of 20 <hi>
+                  <hi rend="sup">li.</hi>
+               </hi> more. All which were beſtowed on the ſaid Arch-Biſhop, and his Servants, by the advice and di<g ref="char:EOLhyphen"/>rection of the ſaid Doctor <hi>Merricke:</hi> and after the acceptance thereof, the ſaid Arch Biſhop
+<pb n="33" facs="tcp:157723:21"/>was content to take, and did take for your Pe<g ref="char:EOLhyphen"/>titioners and the ſaid <hi>Traffords</hi> fines 240 <hi>
+                  <hi rend="sup">li.</hi>
+               </hi> more which they payd accordingly, and were forced to pay 40 <hi>
+                  <hi rend="sup">li.</hi>
+               </hi> more for fees in <hi>London,</hi> and at <hi>Yorke</hi> concerning the ſaid buſineſſe; by which ſaid expence, troubles, and neglect of their owne Occaſions, your Petitioners for their parts, have beene damnified above 1000 <hi>
+                  <hi rend="sup">li.</hi>
+               </hi> and their eſtates almoſt thereby wholly mined: They being enforced to flee and wander into ſtrange Countries for about foure moneths together: your Petitioner <hi>Peter Leigh,</hi> then being a Tradeſman, who dealt for above 4000 <hi>
+                  <hi rend="sup">li.</hi>
+               </hi> per an<g ref="char:EOLhyphen"/>num, and then much indebted, had his Shop ſhut up, for above 3 moneths together, for feare of having his goods ſeized, for his forfited Bond, and fine aforeſaid. And your Petitio<g ref="char:EOLhyphen"/>ner <hi>Golborne</hi> thereby was ſo ruined in his E<g ref="char:EOLhyphen"/>ſtate, that he for a long time after, with his Wife, and Children, lived upon the Benevo<g ref="char:EOLhyphen"/>lence of his Friends, and now is conſtrained to live in Service, being diſabled for want of mo<g ref="char:EOLhyphen"/>neyes to goe on in that courſe wherein former<g ref="char:EOLhyphen"/>ly he was imployed.</p>
+            <p>May it therfore pleaſe this Honourable Aſſemblie to take your Petitioners diſtreſ<g ref="char:EOLhyphen"/>ſed eſtate into your grave Conſiderations, and to weigh their pretended Offences, and their ſevere and heavie puniſhments toge<g ref="char:EOLhyphen"/>ther, and to afford them ſuch Reliefe for the great wrongs done unto them, and their
+<pb n="34" facs="tcp:157723:22"/>Eſtates and Families by the Commiſſioners and Officers of the ſaid High Commiſſion, who have ſo rent and torne them in their Eſtates, as aforeſaid; and by thoſe who are the Authours of their Grievances and Oppreſſions, who have made a prey of them, by taking ſuch Gratuities and ſummes of money of them, as aforeſaid; when they or ſome of them were the Incendiaries of their Troubles and Vexations, and the Authors and procurers of their ſo heavie puniſh<g ref="char:EOLhyphen"/>ments, as in your grave Wiſdomes ſhall ſeem convenient; That ſo other his Maje<g ref="char:EOLhyphen"/>ſties Subjects for the time future, may not be ſo grievouſly oppreſſed at mans plea<g ref="char:EOLhyphen"/>ſure.</p>
+            <closer>And your Petitioners ſhall pray, <hi>&amp;c.</hi>
+               <signed>
+                  <list>
+                     <item>PETER LEIGH.</item>
+                     <item>RICHARD GOLBORNE.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="petition">
+            <pb n="35" facs="tcp:157723:22"/>
+            <head>TO THE HONOVRABLE The Knights, Citizens, and Burgeſſes, of the Commons Houſe of <hi>Parliament.</hi>
+            </head>
+            <head type="sub">The humble Petition of <hi>Calvin Bruen</hi> of the City of <hi>Cheſter.</hi>
+            </head>
+            <opener>Sheweth,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>HAT your Petitioner (though every way conformable to the Laws of this Realm, and Doctrine and Diſcipline of the Church of <hi>England,</hi> and of a peaceable diſ<g ref="char:EOLhyphen"/>poſition) about 3 yeares ſince, was Arreſted by <hi>Robert Blanchard</hi> Purſuivant for the High-Commiſſioners at <hi>Yorke,</hi> who took of him for his Arreſt 3 pounds, and a Bond for his appea<g ref="char:EOLhyphen"/>rance at <hi>Yorke</hi> the 28. of September 1637. (be<g ref="char:EOLhyphen"/>ing the Faire time at <hi>Cheſter</hi>) on which day your Petitioner received a Copie of a Warrant from the Lords of his Majeſties privie Counſell for his appearance before them with ſpeed. The which Copie your Petitioner ſhewed to the
+<pb n="36" facs="tcp:157723:23"/>Arch-biſhop of <hi>Yorke,</hi> and others the ſaid High-Commiſſioners there. Yet they the ſaid High-Commiſſioners would not let him goe, till he had taken the Oath <hi>Ex Officio,</hi> and paid Pur<g ref="char:EOLhyphen"/>ſuivants Fees. And the ſame day in the evening one <hi>Gouldſborrough,</hi> a Meſſenger from the Lords came for your Petitioner <hi>Bruen,</hi> &amp; made him pay him 10 <hi>
+                  <hi rend="sup">li.</hi>
+               </hi> for Fees. And your Petitioner after<g ref="char:EOLhyphen"/>wards appearing before the Lords of the Coun<g ref="char:EOLhyphen"/>ſell was charged with accompanying Mr. <hi>Wil<g ref="char:EOLhyphen"/>liam Prynne</hi> at his being in <hi>Cheſter,</hi> in his paſſage to the Caſtle of <hi>Carnarvan.</hi> But upon his offer to take his oath that he enquired of his Keepers if they had any Command from the Lords to reſtraine any one from coming to ſee him, and that the Keepers made your Petitioner this Anſwer, <hi>that there was no Command to the con<g ref="char:EOLhyphen"/>trary.</hi> And the Lords asking him if he would take his Oath of that? he Anſwered yes. Wher<g ref="char:EOLhyphen"/>upon they were ſatisfied, and gave him as he conceived, a diſcharge, and ſent him away home. But immediately after your Petitioners returne home, he was againe ſummoned to appeare at the High Commiſſion at <hi>Yorke,</hi> who appeared accordingly, and was againe ſworne, and ſeverall Articles exhibited againſt him for the aforeſaid pretended offence; and for <hi>ex tempore</hi> Prayers, and Repetitions with Mr. <hi>Pryn:</hi> as alſo for procuring the Picture of the ſaid Mr. <hi>Prynne</hi> to be drawn by a Limner in <hi>Che<g ref="char:EOLhyphen"/>ſter.</hi>
+            </p>
+            <pb n="37" facs="tcp:157723:23"/>
+            <p>All which laſt particulars, your Petitioner denyed, they being but falſe ſurmiſes, but con<g ref="char:EOLhyphen"/>feſſed the viſiting of the ſaid Mr. <hi>Prynne,</hi> with the conſent of his Keepers, which your Peti<g ref="char:EOLhyphen"/>tioner thought he might lawfully doe; there being no Law or Order to the contrary. Yet for ſuch ſuppoſed offences only without any Teſtimony or Witneſſes, your Petitioner was Fined 500. pound, and ordered to pay all Coſts and charges to Proctors, Meſſengers and Advo<g ref="char:EOLhyphen"/>cates, which came to 13. pound, or thereabouts for your Petitioner for one week only, which ſaid 13. pound your Petitioner <hi>Bruen</hi> paid ac<g ref="char:EOLhyphen"/>cordingly: whereof one Dr. <hi>Mocterſhed</hi> had 5. pound, being Advocate againſt him. And your Petitioner was enjoyned to make this ſubmiſſion hereunto annexed.</p>
+            <p>After which Sentence your Petitioner was Committed to the Purſuivants, till he put in Bond with two ſufficient Sureties of 520. pound to ſtand to the Order of the Court, and then went home. But ſhortly after, refuſing to make the acknowledgement aforeſaid, was againe by the ſaid Purſuivant Impriſoned untill he ſhould make the ſaid Acknowledgement, which he was much preſſed unto by the Biſhop and Chan<g ref="char:EOLhyphen"/>cellor of <hi>Cheſter,</hi> which ſaid Biſhop did aſſure him (as he the ſaid Biſhop ſhould Anſwer before <hi>God</hi>) your Petitioner might ſafely doe it.</p>
+            <p>Your Petitioner being in Priſon, and having left his meanes of living, he being kept from
+<pb n="38" facs="tcp:157723:24"/>his Trade eight moneths, and his Wife and Children thereby brought to great diſtreſſe, was forced by terrours and feares, and by the perſwaſion of the ſaid Biſhop and Chancellour, (on whoſe judgements your Petitioner much relyed) to procure his inlargement from Im<g ref="char:EOLhyphen"/>priſonment, by making the ſaid Acknowledge<g ref="char:EOLhyphen"/>ment in the Cathedrall Church of <hi>Cheſter,</hi> and the Common Hall thereof, and was forced to pay to the aforeſaid Purſuivant <hi>Blanchard,</hi> (who came to ſee him doe it) 5. pounds for Fees.</p>
+            <p>After all which your Petitioner was forced twice more to goe to <hi>Yorke,</hi> being foureſcore miles from his houſe, to take off his ſaid Fine, if he could: But the Fine was certified into the Exchequer, and no helpe was to be had but by ſuite to the Archbiſhop of <hi>Canterburie,</hi> to whom the ſaid Fines were granted: who after your Petitioner and his Wife ſuing to him by the ſpace of a whole moneth together, accepted of thirty pounds for your Petitioner.</p>
+            <p>May it pleaſe this Honourable Houſe to take this your Petitioners grievances into your grave Conſiderations, together with the juriſdiction of the Court of High Com<g ref="char:EOLhyphen"/>miſſion at <hi>Yorke,</hi> where your Petitioner (be<g ref="char:EOLhyphen"/>ſides ſundry others) hath ſuffered ſo much vexation and oppreſſion, only for viſiting the ſaid Mr. <hi>Prynne,</hi> to the dammage of 500. pound at leaſt: And to conſider whether
+<pb n="39" facs="tcp:157723:24"/>this pretended offence be ſuch, as by the Law the ſaid Court hath power to meddle with. And to award your Petitioner ſuch ſpeedy recompence for his ſaid wrongs againſt the ſaid Commiſſioners and their Inſtruments, as to your grave wiſdome ſhall ſeem meet and convenient.</p>
+            <closer>And your Petitioner ſhall ever pray, <hi>&amp;c.</hi>
+               <signed>CALVIN BRUEN.</signed>
+            </closer>
+         </div>
+         <div type="declaration">
+            <pb n="40" facs="tcp:157723:25"/>
+            <head>Here follows a Copie of the De<g ref="char:EOLhyphen"/>claration or acknowledgement appoin<g ref="char:EOLhyphen"/>ted by his Majeſties Commiſſioners for Cauſes Eccleſiaſticall within the Dioceſſe and Province of <hi>Yorke,</hi> to be done and performed by <hi>Calvin Bruen</hi> of the City of <hi>Cheſter,</hi> in the Ca<g ref="char:EOLhyphen"/>thedrall Church of <hi>Cheſter,</hi> and Common Hall thereof.</head>
+            <p>HEe is to bee preſent in the Cathedrall Church of Cheſter aforeſaid at morning prayer, upon Sunday next comming, being the tenth of December inſtant, being in his accuſtomed apparrell, where and when, immediately before the beginning of the Sermon, hee ſhall ſtand upon ſome ſeate or ſtoole be<g ref="char:EOLhyphen"/>fore the Pulpit, and ſay, and receite after the Mini<g ref="char:EOLhyphen"/>ſter, as followeth; Whereas I have been of late con<g ref="char:EOLhyphen"/>vented before his Majeſties Commiſſioners, for cau<g ref="char:EOLhyphen"/>ſes Eccleſiaſticall, for the Dioceſſe and Province of Yorke. For that I countenanced, comforted, and abbetted one <hi>William Prynne,</hi> heeretofore twice cenſured in his Majeſties Court of Starre-chamber, for publiſhing ſeditious and ſcandalous bookes and libells. Namely, in that I waited upon him, to bring him into this Citie, and attended upon him at his going out of the Citie. By all which my carri<g ref="char:EOLhyphen"/>age and misdemeanors, I have audaciouſly and wic<g ref="char:EOLhyphen"/>kedly (aſmuch as in me lay) countenanced the ſayd <hi>Prynne,</hi> and offereed an affront to his Majeſtie and
+<pb n="41" facs="tcp:157723:25"/>the State, in their juſt proceedings againſt him. And thereby alſo have brought a ſcandall and reproach upon the Citie; for all which my offences, upon my perſonall Avowers made to the Articles in that be<g ref="char:EOLhyphen"/>halfe objected aganſt mee, I ſtand legally and juſtly convicted by his Majeſties ſaid Commiſſioners and by them enjoyned to make this declaration, and ac<g ref="char:EOLhyphen"/>knowledgement for the ſame.</p>
+            <p>I doe heere in the preſence of God and this Congregation confeſse my ſaid Offences, and declare my hearty ſorrow for the ſame. And doe aske for<g ref="char:EOLhyphen"/>giveneſle of <hi>God,</hi> the Church, the Kings Majeſtie, and the State. As alſo of the whole Government both Eccleſiaſticall and Temporall of this place: againſt all whom I have ſo grievouſly offended. And in token that this my Confeſſion for the preſent is hearty, and that I may obtaine Grace hereafter to performe what I now rromiſe, and finde mercy for what is paſt: I deſire you all to ſay with me the Lords Prayer, <hi>Our Father,</hi> &amp;c.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
